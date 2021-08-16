@@ -1,0 +1,633 @@
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= k49ggxYPt9Jj7tGQ15i/u98oOUU=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 05
+vpc_Amount= 132004
+vpc_AuthorizeId= 000000
+vpc_BatchNo= 20190523
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx6379
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14045
+vpc_Merchant= 1021053
+vpc_Message= Rechazado
+vpc_OrderInfo= 14045
+vpc_ReceiptNo= 914321001102
+vpc_SecureHash= 6AB249E16FC10B37EBABBFF7BC48364A5C82E0F1A891EA4FEFE5563ACBE1E3D5
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001001
+vpc_TxnResponseCode= 2
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjiWXwBycAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 118804
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14046
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14046
+vpc_SecureHash= 91CA7231025EF236BDFA1B2BDE1ACF1C48212C81FA64494999722418014B4FC6
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 118804
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14047
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14047
+vpc_SecureHash= 3B7332CB7C1AB989A209E59081B13CBA8CC4588D6114F84AF607084FF2D2396F
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 118804
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14048
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14048
+vpc_SecureHash= DCDD8314434173C464A94F5B8777336AEDE04617E92F9434B353D9DF434907F0
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 118804
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14049
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14049
+vpc_SecureHash= 4B3A665A5808698000145B2C1E59801A77A99943FA1BF6A17B3FA2A933D9E64A
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 118804
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14050
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14050
+vpc_SecureHash= 8BBC1C0FD5574704218E316CFFC3DB7342EF46EE49450E9AD2CA2F834D03630E
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSXID= hsO9Iykf5hxxwfPQC/34fF/0vsg=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= N
+vpc_Amount= 118804
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14052
+vpc_Merchant= 1021053
+vpc_Message= 
+vpc_OrderInfo= 14052
+vpc_SecureHash= B5BE2784E669F07E3E4257EC0C0EFC2FB866C1639CDA6EF3FF22FCF7E681C52B
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= F
+vpc_VerSecurityLevel= 7
+vpc_VerStatus= N
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 06
+vpc_3DSXID= PWBqNqj/93SgrBeAwOUdZCkkBxg=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= A
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 05
+vpc_Amount= 132004
+vpc_AuthorizeId= 000000
+vpc_BatchNo= 20190523
+vpc_CSCResultCode= M
+vpc_Card= VC
+vpc_CardNum= xxxxxxxxxxxx7717
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14053
+vpc_Merchant= 1021053
+vpc_Message= Rechazado
+vpc_OrderInfo= 14053
+vpc_ReceiptNo= 914322001103
+vpc_SecureHash= 31379D38662D4CABDCB2A378110201E1A7D294253147D7F6AC1E2ACBF659C172
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001002
+vpc_TxnResponseCode= 2
+vpc_VerSecurityLevel= 6
+vpc_VerStatus= M
+vpc_VerToken= BwAQB5ghSAEAABVYZSFIELu8sOE=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 06
+vpc_3DSXID= yDOfW2yFH5Ng5dX98pwaKTO9ZHI=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= A
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 05
+vpc_Amount= 132004
+vpc_AuthorizeId= 000000
+vpc_BatchNo= 20190523
+vpc_CSCResultCode= M
+vpc_Card= VC
+vpc_CardNum= xxxxxxxxxxxx7717
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14054
+vpc_Merchant= 1021053
+vpc_Message= Rechazado
+vpc_OrderInfo= 14054
+vpc_ReceiptNo= 914322001104
+vpc_SecureHash= 1E3F35F063F3FADE37FE6D637DA670488320BB6C0197886E91858936AAB7DEED
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001003
+vpc_TxnResponseCode= 2
+vpc_VerSecurityLevel= 6
+vpc_VerStatus= M
+vpc_VerToken= BwAQBQYiUgEAABVYZSJSELu8sOE=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/23--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= d+lB5Vn3GZ9NTSiq0hzt7nduD70=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 05
+vpc_Amount= 118804
+vpc_AuthorizeId= 000000
+vpc_BatchNo= 20190523
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx4993
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14055
+vpc_Merchant= 1021053
+vpc_Message= Rechazado
+vpc_OrderInfo= 14055
+vpc_ReceiptNo= 914323001105
+vpc_SecureHash= 17284341F874F5B7E8DBCAE64FC98F7E9033FF2499DA4F85E741ED8474CC7EE2
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001004
+vpc_TxnResponseCode= 2
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjiYYZBxMAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 02
+vpc_3DSXID= XjBSyWfSUKryJ16KhQ/XuH7LSJQ=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= Y
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_AcqResponseCode= 00
+vpc_Amount= 118804
+vpc_AuthorizeId= 031337
+vpc_BatchNo= 20190527
+vpc_CSCResultCode= M
+vpc_Card= MC
+vpc_CardNum= xxxxxxxxxxxx3092
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14058
+vpc_Merchant= 1021053
+vpc_Message= Aprobado
+vpc_OrderInfo= 14058
+vpc_ReceiptNo= 914804001106
+vpc_SecureHash= F99225AA5C2307A8A7961970595AE4678C0BBA5E45AC933AB503E56FFE50A262
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001005
+vpc_TxnResponseCode= 0
+vpc_VerSecurityLevel= 5
+vpc_VerStatus= Y
+vpc_VerToken= jPKzoJl679TbCBAjkIsNBzUAAAA=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/28--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 475214
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14060
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14060
+vpc_SecureHash= F9F9B2A5D005C06595CEE698E0C09317931F0C95A7CFF32078DEA9477788B773
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/05/30--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_Amount= 374951
+vpc_BatchNo= 0
+vpc_Command= pay
+vpc_Currency= MXN
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14072
+vpc_Merchant= 1021053
+vpc_Message= Cancelled
+vpc_OrderInfo= 14072
+vpc_SecureHash= FA35A7F9DE24394FD19509D2712611ADC16E306A41D39669BA7A014CC3D0D54A
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 0
+vpc_TxnResponseCode= C
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/06/16--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 06
+vpc_3DSXID= h4akGS+Zet35dQuawtdbegHYjSM=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= A
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_Amount= 6667
+vpc_BatchNo= 20190401
+vpc_CSCResultCode= Unsupported
+vpc_Card= VC
+vpc_CardNum= xxxxxxxxxxxx0213
+vpc_Command= pay
+vpc_Currency= USD
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14087
+vpc_Merchant= 1021053
+vpc_Message= 
+vpc_OrderInfo= 14087
+vpc_SecureHash= A896418E232615CF99F77A19A5781A6690A0A8903F9B4EC543E60362FD8440FC
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001101
+vpc_TxnResponseCode= B
+vpc_VerSecurityLevel= 6
+vpc_VerStatus= M
+vpc_VerToken= BwACBkQkJyRWKUUmZyQnEEc6Xfs=
+vpc_VerType= 3DS
+vpc_Version= 1
+
+
+--------------- Respuesta de una transaccion Banamex 2019/06/16--------------
+
+Title= PHP VPC 3 Party Super Transacion readonly 
+vpc_3DSECI= 06
+vpc_3DSXID= Fj1PZP+EYBIvfiRhMpkI9RH0iWg=
+vpc_3DSenrolled= Y
+vpc_3DSstatus= A
+vpc_AVSRequestCode= Z
+vpc_AVSResultCode= Unsupported
+vpc_AcqAVSRespCode= Unsupported
+vpc_AcqCSCRespCode= Unsupported
+vpc_Amount= 6667
+vpc_BatchNo= 20190401
+vpc_CSCResultCode= Unsupported
+vpc_Card= VC
+vpc_CardNum= xxxxxxxxxxxx0213
+vpc_Command= pay
+vpc_Currency= USD
+vpc_Locale= es_MX
+vpc_MerchTxnRef= REF14088
+vpc_Merchant= 1021053
+vpc_Message= 
+vpc_OrderInfo= 14088
+vpc_SecureHash= 89973F33B321B759F1D8A71A187DC2FA890388E70219B887A2CE12C0D5B83754
+vpc_SecureHashType= SHA256
+vpc_TransactionNo= 1300001102
+vpc_TxnResponseCode= B
+vpc_VerSecurityLevel= 6
+vpc_VerStatus= M
+vpc_VerToken= BwACCVEEhRNCEGYIQgSFEEc6Xfs=
+vpc_VerType= 3DS
+vpc_Version= 1

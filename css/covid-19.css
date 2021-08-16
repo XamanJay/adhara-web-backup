@@ -1,0 +1,68 @@
+#stay-safe{
+	display: block;
+	margin:0px auto;
+	margin-bottom: 35px;
+}
+
+.title-covid{
+	display: block;
+	margin:0px auto;
+}
+
+
+.margin-covid-text{
+	width: 100%;
+	display: block;
+	margin: 0px auto;
+	padding: 15px;
+}
+
+.margin-covid-text h4,.margin-covid-text h2{
+	font-family: 'Cinzel', serif;
+	text-align: center;
+}
+
+
+.list-covid{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-covid li{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-family: 'Red Hat Display', sans-serif !important;
+	font-size: 19px;
+	letter-spacing: 1px;
+	text-align: justify;
+	color: #473934 !important;
+}
+
+
+.img-covid{
+	width: 100%;
+	display: block;
+	margin:0px auto;
+}
+
+
+
+
+
+
+@media(min-width: 800px){
+	
+	.margin-covid-text{
+
+		width: 700px;
+		padding: 25px;
+	}
+
+	.list-covid li{
+		margin-top: 35px;
+		margin-bottom: 35px;
+		font-size: 23px;
+	}
+
+
+}

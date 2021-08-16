@@ -1,0 +1,126 @@
+.smbutton{
+	margin-top: 6px;
+}
+.lrbox{
+	border-left: 2px solid #7F5986;
+}
+
+.wand{
+	width: 25px;
+	margin-top: 10px;
+}
+
+.icon-right{
+	margin-right: 10px;
+	color: rgb(137, 44, 121);
+}
+
+#room-section{
+	color: black;
+	font-family: 'Questrial', sans-serif;
+	padding-top: 25px;
+	margin-bottom: 60px;
+}
+
+#info-reserve{
+	list-style:none;
+	display:inline-flex;
+	padding-left: 0px;
+	color: rgb(137, 44, 121);
+}
+
+.send{
+	color: white;
+	background-color: rgb(137, 44, 121);
+	border-color: rgb(137, 44, 121);
+}
+
+.send:hover,.send:focus,.send:active{
+	background-color: #310707de !important;
+	border-color: #310707de !important;
+	box-shadow: 0 0 0 0 !important;
+}
+
+
+#taxes{
+	width: initial;
+    background-color: rgb(137, 44, 121);
+    color: white;
+    padding: 6px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#contenedor-room{
+	padding:0px;
+}
+
+@media(min-width: 600px){
+	#taxes{
+		width: 100%;
+	}
+
+	#contenedor-room{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+@media(min-width: 1200px){
+	#taxes
+	{
+		width: 450px;
+	}
+}
+
+#info-reserve li{
+	margin-right:10px;
+}
+
+#estandar-room,#superior-room,#ejecutive-room{
+	margin:0px;
+	text-align:center;
+}
+
+#estandar-room p,#superior-room p,#ejecutive-room p{
+	margin-bottom: 8px;
+}
+
+.room-bottom{
+	margin-bottom: 5px;
+}
+
+hr{
+	width: 100%;
+	display: block;
+}
+
+.room-facilities{
+	list-style: none;
+	display: inline-flex;
+	padding-left:0px;
+	margin-top: 8px;
+}
+
+.room-facilities li{
+	padding:5px;
+}
+
+.room-facilities li img{
+	width: 25px;
+}
+
+.room-facilities li a{
+	padding-left: 15px;
+	cursor: pointer;
+}
+
+.room-facilities li a:hover{
+	text-decoration: underline !important;
+}
+
+.plus-facilities{
+	padding-left: 25px;
+	font-size: 14px;
+}

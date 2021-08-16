@@ -1,0 +1,215 @@
+/* div.container{
+	padding:10px;
+}
+.cuponn{
+	background: white;
+	border-radius: 5px;
+	margin-top: 15px;
+}
+.cuponn p{
+	color: black !important;
+	font-size: 25px !important;
+	padding: 8px 0px;
+	text-align: center;
+}
+.mdi-action-alarm{
+	color: white;
+	font-size: 95px;
+	text-shadow:5px 5px #000;
+}*/
+
+#whats-fin{
+	max-width: 250px;
+}
+.reloj{
+	position: initial;
+    top: 100px;
+    z-index: 100;
+    width: 100%;
+    background-color: #503127;
+    padding-top: 10px;
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.reloj span{
+	text-align: center;
+}
+
+#buen-fin{
+	margin-top: 0px;
+	width: 100px;
+}
+
+h2.counter,h2.counter1{
+	margin-top: 0 !important;
+	/* text-shadow:4px 4px #007A7A; */
+	text-shadow:4px 4px black;
+}
+/*h2.texto{
+	color:#FFF;
+	font-family: "Lato",sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	margin:0;
+}
+#Scroll{
+	display: none;
+	position: fixed;
+	top:0;
+} */
+h2.counter1{
+	color:#FFF;
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-right:10px;			
+	margin-top:0px;
+}
+h2.counter{
+	color:#FFF;
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-right:10px;
+	margin-top:0px;
+}
+h2.counter:before{
+	content: ":";
+	position: relative;
+	right: 0.1em;
+}
+/* div.pre{
+	margin-top: -15px;
+}
+.pre{
+	font-family: "Lato",sans-serif;
+	font-size: 15px;
+	text-align: center;
+	text-transform: uppercase;
+} */
+p.time-rest{
+	color:#FFF;
+	font-family: "Lato",sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: -10px;
+	margin: 0;
+	/* text-shadow: 4px 1px rgb(1, 113, 113); */
+}
+/* .btn-shop{
+	background-color: #428bca !important;
+	font-family: "Lato",sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: -15px;
+} */
+/* @media screen and (max-width: 992px){
+	.img-responsive{
+		display: none;
+	}
+	.mdi-action-alarm{
+		font-size: 50px;
+	}
+	h2.texto{
+		font-size: 18px;
+	}
+	p.time-rest{
+		font-size: 11px;
+	}
+	#quedan{
+		font-size: 13px !important;
+		margin-top:15px;
+	}
+	
+	div.pre span{
+		font-size: 10px;
+		margin-right: 18px;
+	}
+} */
+
+/* @media(min-width: 576px){ */
+@media(min-width: 600px){
+	.reloj{
+		position: absolute;
+		max-width: 350px;
+		right: 0px;
+		background-color: transparent;
+		padding-top: 0px;
+		margin-top: 0px;
+	}
+
+	#buen-fin{
+		/* margin-top: -30px; */
+		max-width: 100%;
+    	height: auto;
+    	float: right;
+	}
+}
+
+@media(min-width: 800px){
+	h2.counter1{
+		font-size: 30px;
+	}
+	h2.counter{
+		font-size: 30px;
+	}
+}
+
+@media(min-width: 1150px){
+	.reloj{
+		max-width: 400px;
+	}
+
+	h2.counter{
+		font-size: 35px;
+		margin-top: 10px !important;
+	}
+	h2.counter1{
+		font-size: 35px;
+		margin-top: 10px !important;
+	}
+}
+
+@media(min-width: 1400px){
+
+	#whats-fin{
+		max-width: 350px;
+	}
+
+	.reloj{
+		max-width: 500px;
+	}
+	h2.counter{
+		font-size: 45px;
+		margin-top: 10px !important;
+	}
+	h2.counter1{
+		font-size: 45px;
+		margin-top: 10px !important;
+	}
+}
+
+@media(min-width: 1600px){
+	.reloj{
+		right: 60px;
+	}
+}
+
+@media(min-width: 1700){
+	.reloj{
+		right: 150px;
+	}
+}
+
+.inline-block{
+	display:inline-block;
+}
+.block{
+	display: block;
+}

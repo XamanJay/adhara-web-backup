@@ -1,0 +1,809 @@
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+    background-color: #4b4b4c;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+	color: white;
+}
+
+#barStuff{
+  height: 80px;
+}
+
+#barStuff li{
+  height: 80px;
+}
+
+#barStuff li a{
+  height: 80px;
+  padding-top: 26px;
+}
+
+#contenido{
+	background-image: url("../img/plecas.png");
+	background-size: contain;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#clubestrella{
+	background-color: #333;
+}
+
+.centerItems{
+
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+#mobileBar{
+
+	background-color: white;
+}
+
+.desktop{
+  display: block !important;
+}
+
+.mobile{
+  display: none !important;
+}
+
+/* Estilos img whatsapp */
+@media(min-width: 200px){
+
+    .desktop{
+      display: none !important;
+    }
+    .mobile{
+      display: block !important;
+    }
+}
+
+@media(min-width: 600px){
+    .desktop{
+      display: block !important;
+    }
+    .mobile{
+      display: none !important;
+    }
+}
+
+#redes{
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+#about h1{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.widthCustom{
+	width: 100%;
+}
+
+#about p{
+	text-align: justify;
+}
+
+#roomsInfo h5{
+	text-align: center;
+}
+
+#roomsInfo p{
+	text-align: justify;
+}
+
+.roomsReserva{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+.row{
+	margin-bottom: 30px;
+}
+
+
+#magia h1{
+	text-align: center;
+  margin-bottom: 40px;
+}
+
+#magia p{
+	text-align: justify;
+}
+
+.mejor_tarifa_camioneta{
+    animation-duration: 5s !important;
+    animation-name: fadeInLeft;
+}
+.mejor_tarifa_camioneta > img {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+.margaritaBox{
+  padding: 15px;
+  background-color: #850053;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.imgCenter{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#enviarBut{
+  margin-top: 23px; 
+  background-color: white;
+  color: black; 
+  border-color: white;
+}
+
+footer{
+	background-color: #070a25;
+	height: 100px;
+}
+
+#reglamento ul{
+	display: inline-flex;
+  list-style: none;
+  padding-top: 25px;
+  float: right;
+}
+
+#reglamento ul li{
+	padding:10px;
+}
+
+#reglamento ul li button{
+  background-color: #070a25;
+  cursor: pointer;
+  border-color: #070a25;
+}
+#fotImg{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 15px;
+    width: 180px;
+    float: left;
+}
+
+#contenido h1{
+  font-size: 2.5rem;
+}
+
+#reglamento ul li button:focus,button:hover,button:active{
+  box-shadow: none;
+}
+
+
+@media (max-width: 767px) {
+    #reglamento ul{
+    display: block;
+    padding-left: 0px;
+    float: unset !important;
+  }
+
+  #reglamento ul li{
+    text-align: center;
+  }
+
+  #fotImg{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 15px;
+    width: 180px;
+    float: unset;
+  }
+  #contenido{
+      padding-right: 16px;
+      padding-left: 16px;
+  }
+
+  #contenido h1{
+    font-size: 2rem;
+  }
+
+  #barStuff{
+    height: auto;
+  }
+
+  #barStuff li{
+    height: auto;
+  }
+
+  #barStuff li a{
+    height: auto;
+    padding-top: 26px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+/* 
+
+.table-condensed th{
+color: black;
+}
+
+/* seccion de disponibilidad */
+
+#disponibilidad{
+    padding: 40px;
+}
+
+#impuestos{
+    text-align: right;
+}
+
+#itinerario p{
+    text-align: right;
+}
+
+.roomsType{
+    margin-bottom: 15px;
+}
+
+.boxTittle{
+    background-color: #070a25;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.boxTittle h5{
+    color: white;
+    margin-bottom: 0px;
+}
+
+#pagoDestino{
+    text-align: center;
+}
+
+.clubestrellaTittle{
+    text-align: center;
+}
+
+.closeDate{
+    text-align: center;
+    color: #a40505;
+}
+
+.payAmount{
+    text-align: center;
+}
+
+#estandarRoom{
+    background-color: #070a25;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+#estandarRoom p{
+    margin-bottom: 0px;
+    color: white;
+}
+
+.roomSuperior{
+    margin-top: 20px;
+}
+
+.roomEjecutivo{
+    margin-top: 20px;
+}
+
+/*.form-check-input{
+    margin-left: -0.5rem !important;
+}*/
+
+.send{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+
+.send{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    background-color: #070a25 !important;
+    color: white !important;
+    cursor: pointer;
+    border-color:#070a25;
+}
+
+.send:hover{
+  color: #070a25;
+}
+
+.teemo{
+    display: none;
+}
+/* Small devices (landscape phones, less than 768px)*/
+/*Seccion mobile de disponibilidad */
+@media (max-width: 767px) {
+    #disponibilidad{
+        padding: 5px;
+    }
+
+    #disponibilidad h2{
+        text-align: center;
+    }
+}
+/* Estilos de la vista reserva */
+
+#reservacion{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.clubestrellaStuff{
+    width: 55px;
+    height: 65px;
+}
+
+.clubestrellaStuff2{
+    width: 65px;
+    height: 65px;
+}
+
+.btnCustom{
+    background-color: white;
+}
+
+#terminosCondiciones{
+    margin-left: unset !important;   
+}
+
+.equals{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#pagoSeguro{
+    margin-bottom: 10px;
+}
+
+#pagoPaypal{
+    margin-bottom: 20px;
+}
+
+#pagoBancario{
+    margin-bottom: 10px;
+}
+
+#pagoHotel{
+    margin-bottom: 10px;
+}
+
+.noPublic{
+    display: none;
+}
+
+.error{
+  color: red;
+}
+
+
+/* Small devices (landscape phones, less than 768px)*/
+/*Seccion mobile de disponibilidad */
+@media (max-width: 767px) {
+    #reservacion{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+/* Preloadings styles */
+
+#status {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  /*left: 50%;*/
+  /* centers the loading animation horizontally one the screen */
+  /*top: 50%;*/
+  /* centers the loading animation vertically one the screen */
+  background-image: url("../reservation/esp/time.gif");
+  /* path to your loading animation */
+  background-repeat: no-repeat;
+  background-position: center;
+  /*margin: -100px 0 0 -100px;*/
+  /* is width and height divided by two */
+}
+
+.wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+#content {
+  margin: 0 auto;
+  padding-bottom: 50px;
+ 
+  
+}
+
+#loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+}
+
+#loader {
+    display: block;
+    position: relative;
+
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+
+    
+    z-index: 1001;
+    animation: spin 2s linear infinite;
+    
+    &:before {
+      content: "";
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      right: 5px;
+      bottom: 5px;
+      border-radius: 50%;
+      
+      
+      animation: spin 3s linear infinite;
+    }
+    
+    &:after {
+      content: "";
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      left: 15px;
+      bottom: 15px;
+      border-radius: 50%;
+       
+    }
+  }
+
+/* Small devices (landscape phones, less than 768px)*/
+/*Seccion mobile de disponibilidad */
+@media (max-width: 767px) {
+    #loader{
+        left:25%;
+    }
+}
+
+#loader-wrapper .loader-section {
+  position: fixed;
+  top: 0;
+  width: 51%;
+  height: 100%;
+  background-color: lightgray;
+ 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: multiply;
+  z-index: 1000;
+  transform: translateX(0);
+}
+
+#loader-wrapper .loader-section.section-left {
+    left: 0;
+  }
+
+#loader-wrapper .loader-section.section-right {
+    right: 0;
+  }
+
+#loader {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 50 auto;
+}
+
+.circ-one {
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  background: rgba(217,91,67,1);
+  border-radius: 100%;
+  float: left;
+  animation: load-x 1s cubic-bezier(0.445, 0.100, 0.550, 0.900) infinite;
+}
+
+.circ-two {
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  background: rgba(84,36,55,1);
+  border-radius: 100%;
+  float: right;
+  animation: load-y 1s cubic-bezier(0.445, 0.100, 0.550, 0.900) infinite;
+}
+
+@keyframes load-x {
+  0%   { left: -10px; transform: scale(1); }
+  25%  { transform: scale(1.5); z-index: 2; }
+  50%  { left: 60px; transform: scale(1); }
+  75%  { transform: scale(0.5); z-index: 1; }
+  100% { left: -10px; transform: scale(1); }
+}
+
+@keyframes load-y {
+  0%   { right: -10px; transform: scale(1); }
+  25%  { transform: scale(0.5); }
+  50%  { right: 60px; transform: scale(1); z-index: 1; }
+  75%  { transform: scale(1.5); z-index: 2; }
+  100% { right: -10px; transform: scale(1); }
+}
+
+#loader p {
+  text-align: center;
+  font-family: 'Hanna', serif;
+  font-weight: 50;
+  color:rgba(192,41,66,1);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  50% { opacity: 0.5; }
+}
+// Loaded
+.loaded #loader-wrapper .loader-section.section-left {
+  transform: translateY(-100%);
+  transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
+}
+
+.loaded #loader-wrapper .loader-section.section-right {
+  transform: translateY(100%);
+  transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
+}
+
+.loaded #loader {
+  opacity: 0;
+  transition: all 0.3s ease-out;
+}
+
+.loaded #loader-wrapper {
+  visibility: hidden;
+  transform: translateX(-100%);
+  transition: all 0.3s 1s ease-out;
+}
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Oxygen);
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.preload * {
+  transition: none !important;
+}
+
+.wrapper{
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* Habitaciones */
+
+.features{
+  width: 20px;
+}
+
+/* Servicios */
+
+.services{
+  width: 40px;
+  margin-right: 10px;
+}
+
+
+
+
+#clubestrellaPromos{
+  margin-bottom: 50px;
+}
+
+.carousel-control-prev, .carousel-control-next{
+  width: 4% !important;
+}
+
+.margenD{
+  margin-top: 70px;
+  margin-bottom: 80px;
+}
+
+#innerSpecial{
+  border-radius: 10px !important;
+}
+
+#contactBox p{
+  margin-bottom: 5px;
+}
+
+.nameRoom{
+  padding-left: 15px;
+}
+
+#clubMenu{
+  display: inline-flex;
+  list-style: none;
+  padding-left: 0px;
+  float: right;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+#clubMenu li{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#clubMenu li a{
+  color: black;
+  border: 0px;
+  border-color: white;
+  padding: 5px;
+}
+
+.fa-2x{
+  font-size: 1.4em;
+}
+
+#clubMenu p{
+  font-size: 0.8em;
+}
+
+.separador{
+  height: 10px;
+  background-color: #070a25;
+  display: block;
+}
+
+#referencia{
+  background-color: grey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  color: white;
+  border-radius: 5px;
+  margin-left: 15px;
+}
+
+#backHome{
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: #070a25;
+  color: white;
+  border-radius: 5px;
+}
+
+/* Social Media styles */ 
+
+/* Social Media bar styles */
+
+.social {
+  /*width: 200px;
+  height: 220px;*/
+  position: fixed;
+  margin-top: 30px;
+  perspective: 1000px;
+  list-style: none;
+  padding-left: 0px;
+  z-index: 99999;
+
+}
+
+.social li a {
+  display: block;
+  /*height: 20px;*/
+  width: 40px;
+  background: #222;
+  border-bottom: 1px solid #333;
+  font: normal normal normal
+  16px/20px 
+  'FontAwesome', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  transition: background .5s ease .300ms
+}
+
+.social li:first-child a:hover { background: #3b5998 }
+.social li:nth-child(2) a:hover { background: #00acee }
+.social li:nth-child(3) a:hover { background: #ea4c89 }
+.social li:nth-child(4) a:hover { background: #dd4b39 }
+
+.social li:first-child a { border-radius: 0 5px 0 0 }
+.social li:last-child a { border-radius: 0 0 5px 0 }
+    
+.social li a span {
+  width: 100px;
+  float: left;
+  text-align: center;
+  background: #222;
+  color: #fff;
+  /*margin: -25px 74px;*/
+  margin: -10px 44px; 
+  padding: 8px;
+  transform-origin: 0;
+  visibility: hidden;
+  opacity: 0;
+  transform: rotateY(45deg);
+  border-radius: 5px;
+  transition: all .5s ease .300ms;
+  position: absolute;
+  z-index: 99999;
+}
+
+.social li span:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: -20px;
+  top: 7px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid #222;
+  border-bottom: 10px solid transparent;
+  border-top: 10px solid transparent;
+}
+
+.social li a:hover span {
+  visibility: visible;
+  opacity: 1;
+  transform: rotateY(0)
+}
+
+
+/* Whats app */ 
+
+#whatsInfo{
+  position: absolute;
+
+}

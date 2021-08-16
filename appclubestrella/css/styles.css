@@ -1,0 +1,494 @@
+html{
+	position: relative;
+	min-height: 100%;
+}
+body{
+	color: white !important;
+	background-color: white;
+	background-image: url("../img/fondo.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    margin: 10px 0px;
+}
+
+#login{
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: auto;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+#login .middle{
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: auto;
+}
+@media (min-width: 768px) {
+    #login{
+        min-height: 500px;
+    }
+    .pd-without-l{
+        padding-left: 5px;
+    }
+    .pd-without-r{
+        padding-right: 5px;
+    }
+}
+/*@font-face {
+    font-family: "montserrat-bold";
+    font-weight: bold;
+    src: url("../fonts/Montserrat-Bold.otf") format("opentype");
+}
+@font-face {
+    font-family: "light";
+    src: url("../fonts/Montserrat-Hairline.otf") format("opentype");
+}
+@font-face {
+    font-family: "montserrat-regular";
+    src: url("../fonts/Montserrat-Regular.otf") format("opentype");
+}
+*/
+.thumbnail {
+    border: 0;
+}
+
+#webcodecam-canvas, #scanned-img {
+    background-color: #2d2d2d;
+}
+
+#camera-select {
+    display: inline-block;
+    width: auto;
+}
+
+.btn {
+    margin-bottom: 2px;
+}
+
+.h4, h4 {
+    width: auto;
+    float: left;
+    font-size: 20px;
+    line-height: 1.1;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.controls {
+    float: right;
+    display: inline-block;
+}
+
+.well {
+    position: relative;
+    display: inline-block;
+}
+
+.box-message{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding: 15px;
+    top: -1px;
+    right: -201px;
+    background-color: black;
+    color: white;
+}
+
+.panel-heading {
+    display: inline-block;
+    width: 100%;
+}
+
+pre {
+    border: 0;
+    border-radius: 0;
+    background-color: #333;
+    margin: 0;
+    line-height: 125%;
+    color: whitesmoke;
+}
+
+button {
+    outline: none !important;
+}
+
+.table-bordered {
+    color: #777;
+    cursor: default;
+}
+
+.table-bordered a:hover {
+    text-decoration: none;
+}
+
+.table-bordered th a {
+    float: right;
+    line-height: 3.49;
+}
+
+.table-bordered td a {
+    float: left;
+}
+
+.table-bordered th img {
+    float: left;
+}
+
+.table-bordered th, .table-bordered td {
+    vertical-align: middle !important;
+}
+
+.scanner-laser {
+    position: absolute;
+    margin: 40px;
+    height: 30px;
+    width: 30px;
+    opacity: 0.5;
+}
+
+.laser-leftTop {
+    top: 0;
+    left: 0;
+    border-top: solid red 5px;
+    border-left: solid red 5px;
+}
+
+.laser-leftBottom {
+    bottom: 0;
+    left: 0;
+    border-bottom: solid red 5px;
+    border-left: solid red 5px;
+}
+
+.laser-rightTop {
+    top: 0;
+    right: 0;
+    border-top: solid red 5px;
+    border-right: solid red 5px;
+}
+
+.laser-rightBottom {
+    bottom: 0;
+    right: 0;
+    border-bottom: solid red 5px;
+    border-right: solid red 5px;
+    JS
+}
+
+#webcodecam-canvas {
+    background-color: #272822;
+}
+#scanned-QR{
+    word-break: break-word;
+}
+
+
+
+#forme{
+    color: white;
+    margin-top: 60px;
+    margin-bottom: 300px;
+    /*font-family: "montserrat-regular";*/
+}
+
+
+
+#logo{
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.boxs{
+    width: 100%;
+    border-radius: 2px;
+    border-width: 0px;
+    height: 26px !important;
+    text-indent: 8px;
+    color: black;
+}
+
+#entrar{
+    color: white;
+    background-color: black;
+    border-width: 0px;
+    height: 26px !important;
+}
+
+#miembro{
+    text-align: right;
+}
+
+#moment{
+    padding-top: 60px;
+}
+
+#margenes{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+
+#know{
+    margin-bottom: 0px !important;
+}
+
+.btn-registro{
+    background-color: black;
+    border-radius: 0px;
+    border: 0px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 40px;
+    margin: 0px;
+}
+.btn-registro:hover, .btn-registro:active, .btn-registro:focus, .btn-registro:active:focus, .btn-registro:active:hover{
+    background-color: black;
+    color: #999;
+}
+
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: none;
+    outline-offset: 0px;
+}
+
+.btn-login{
+    background-color: black;
+    border-radius: 0px;
+    border: 0px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+.btn-login:hover, .btn-login:active, .btn-login:focus, .btn-login:active:focus, .btn-login:active:hover{
+    background-color: black;
+    color: #999;
+}
+
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: none;
+    outline-offset: 0px;
+}
+
+.pump{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: white;
+    /*font-family: "montserrat-regular";*/
+}
+
+.personalizado{
+    border-radius: 3px;
+    border-width: 0px;
+    height: 28px;
+    text-indent: 8px;
+    color: black !important;
+}
+
+#kids{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#run{
+
+    background-color: black;
+    color: white;
+    /*font-family: "montserrat-regular";*/
+}
+
+.marcas{
+    margin-bottom: 65px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.subfooter{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+}
+
+.footer {
+    min-height: auto;
+    padding: 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    background-color: black;
+    color: white;    
+    padding: 10px;
+}
+
+.footer p {
+    margin: 0px;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+    color: white;
+    font-size: 16px;
+}
+
+.header{
+    height: 60px;
+    background-color: black;
+}
+
+
+#navbarMain .navbar{
+    background-color: black;
+    min-height: 70px;
+}
+
+
+#navbarMain {
+    background-color: black;
+    border-radius: 0px;
+    border:0px;
+    box-shadow: 1px -4px 20px 0px black;
+}
+#navbarMain .navbar-header{
+    min-height: 70px;
+}
+
+#navbarMain .navbar-brand{
+    padding: 25px 10px;
+    min-height: 70px;
+    display: inline-block !important;
+
+}
+
+#navbarMain .brand-img{
+    width: 50px; height: 50px; margin: 10px 15px;
+    display: inline-block;
+    float: left;
+}
+
+#navbarMain .navbar-header a{
+    color: white;
+}
+
+#navbarMain .navbar-toggle {
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+
+#navbarMain .navbar-nav>li>a {
+    min-height: 70px;
+    padding: 25px 15px;
+    color: white;
+}
+#navbarMain .navbar-nav>li>a:hover{
+    color: #999;
+}
+#navbarMain .navbar-nav>.open>a, #navbarMain .navbar-nav>.open>a:focus, #navbarMain .navbar-nav>.open>a:hover {
+    color: white;
+    background-color: black !important;
+}
+#navbarMain .nav .open>a, #navbarMain .nav .open>a:focus, #navbarMain .nav .open>a:hover {
+    color: white;
+    background-color: black !important;
+}
+#navbarMain .navbar-nav>li>a:focus, #navbarMain .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+#navbarMain .dropdown-menu {
+    color: white;
+    background-color: black;
+}
+
+#navbarMain .dropdown-menu>li>a{
+    color: white;
+
+}
+#navbarMain .dropdown-menu>li>a:hover{
+    background-color: transparent;
+    color: #999;
+}
+
+#navbarMain .navbar-toggle {
+    border:0px;
+}
+
+#navbarMain .navbar-toggle:focus, #navbarMain .navbar-toggle:hover {
+    background-color: black;
+}
+
+#navbarMain .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+#tittle-detalle{
+    font-size: 2rem; 
+    color: white;
+    padding-top: 10px;
+}
+
+.fierro{
+    background-color: black;
+    border-radius: 10px;
+    margin-bottom: 0px !important;
+}
+.blaqui{
+    color: white;
+    text-align: center;
+}
+.negri{
+    color: black;
+    text-align: center;
+}
+.almost{
+    margin-left: -35px;
+}
+.flor{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.techo{
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.linea{
+    border-bottom: 4px solid black;
+    width: 95%;
+}
+
+#registro{
+
+    margin-right: auto; 
+    margin-left: auto; 
+    display: block;
+}
+
+.puntoles{
+    color: white; 
+    font-size: 25px;
+    font-weight: 800; 
+    margin-top: -10px;
+}

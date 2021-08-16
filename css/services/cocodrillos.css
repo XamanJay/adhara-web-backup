@@ -1,0 +1,84 @@
+.grill-text{
+	padding: 20px;
+	padding-top: 30px;
+}
+
+
+
+.grill-text h4{
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	margin-bottom: 30px;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+.grill-text p{
+	color: #473934;
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 1px;
+    width: 100%;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}
+
+@media(min-width: 800px){
+	.grill-text{
+		padding:80px;
+		padding-top: 50px;
+	}
+
+	.grill-text p{
+	    width: 700px;
+	}
+}
+
+.grill-text img{
+	display: block;
+	margin: 0px auto;
+	margin-bottom: 30px;
+}
+
+
+#grill_icon{
+	width: 70px;
+}
+
+#fork-icon{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#coco-web{
+	width: 300px;
+	display: block;
+	margin:0px auto;
+	margin-top: -250px;
+}
+
+#coco-face,#coco-twitter{
+	width: 150px;
+}
+
+
+@media(min-width: 600px){
+	#coco-web{
+		width: 400px;
+		margin-top: -200px;
+	}
+
+	#coco-face,#coco-twitter{
+		width: initial;
+	}
+}
+
+
+/*@media(min-width: 1250px){
+	#coco-web{
+		margin-top: -100px;
+	}
+}*/
+
+

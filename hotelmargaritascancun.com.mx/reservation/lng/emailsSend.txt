@@ -1,0 +1,56 @@
+
+
+--------------- Se envió el email al cliente de la reserva 13597 PayPal 2018/07/24--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13616 PayPal 2018/07/31--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13641 PagoBancario 2018/08/16--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13717 PayPal 2018/10/10--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13727 PagoDestino 2018/10/18--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13779 PagoDestino 2018/11/22--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13797 PagoDestino 2018/12/11--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13806 PayPal 2018/12/16--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13895 PayPal 2019/02/13--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13948 PayPal 2019/03/18--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 13953 PagoDestino 2019/03/20--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 14083 PayPal 2019/06/12--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 14431 PagoBancario 2019/11/30--------------
+
+
+
+--------------- Se envió el email al cliente de la reserva 14448 PagoBancario 2019/12/06--------------
+

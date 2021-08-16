@@ -1,0 +1,3518 @@
+---- Inicio de los XML armados para emviar a Santander ---- 
+
+
+
+
+-------- Fecha: 2019-07-11 19:53:29-------------
+
+
+
+
+
+-------- Fecha: 2019-07-11 19:54:23-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun1369</reference>
+									<amount>1362.56904</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-11 19:55:06-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun1370</reference>
+									<amount>73.2564</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-11 18:07:41-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14198</reference>
+									<amount>60</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Gómez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-12 17:32:56-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14201</reference>
+									<amount>60</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Gómez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-13 18:49:29-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14204</reference>
+									<amount>1300</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>mariomonsreal@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Mario Monsreal Uh.</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-17 17:46:43-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14212</reference>
+									<amount>2200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cesar.paredes@hotusahotels.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>sssssss ssss</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-26 22:15:46-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14224</reference>
+									<amount>441</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>pederneramarce@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Marcela Pedernera</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-27 17:51:55-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14226</reference>
+									<amount>14165</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>gte_administrativa@loginseprisp.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Maria Paulina Omaña Delgado</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-29 18:38:53-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14228</reference>
+									<amount>3998</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>educacion@casacem.org</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Ana Karen Sandoval Ontiveros</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-29 18:43:36-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14229</reference>
+									<amount>3998</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>schavez@casacem.org</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Ana Karen Sandoval Ontiveros</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-29 23:23:37-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14231</reference>
+									<amount>441</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>pederneramarce@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Marcela Pedernera</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-07-30 08:24:48-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14232</reference>
+									<amount>2780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>carevaloh22@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Carlos Arevalo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-05 19:57:29-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14243</reference>
+									<amount>6660</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cynthia_rivarola@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Cynthia Paola Rivarola</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-11 05:16:00-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14247</reference>
+									<amount>5400</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>AROMERO1777@GMAIL.COM</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>ADRIAN ROMERO</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-29 16:30:55-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14285</reference>
+									<amount>2000</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>fama_carmen@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>María del Carmen Cepeda Pando</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-29 16:38:45-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14286</reference>
+									<amount>2000</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>fama_carmen@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>María del Carmen Cepeda Pando</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-29 17:44:10-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14287</reference>
+									<amount>2000</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>fama_carmen@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>María del Carmen Cepeda Pando</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-30 16:12:58-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14289</reference>
+									<amount>2700</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>hanns_ramos@yahoo.com.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>HANNS IVAN SOTO</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-08-30 16:21:32-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14290</reference>
+									<amount>2700</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>hanns_ramos@yahoo.com.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>HANNS IVAN SOTO</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-09-12 10:33:30-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14307</reference>
+									<amount>18578</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>jmarchinil@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jaime E Marchini</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-09-21 20:15:42-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14320</reference>
+									<amount>234</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>denrosemartin@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Dennis Rosemartin</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-09-21 20:20:14-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14321</reference>
+									<amount>234</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>denrosemartin@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Dennis Rosemartin</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-10-07 16:36:59-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14332</reference>
+									<amount>2380</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>francisco.ripol@wyndham.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Francisco Antonio Ripol Bermúdez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-10-16 04:08:04-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14347</reference>
+									<amount>1190</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>javier1889pch@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Javier Perez Chacon</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-10-28 04:36:10-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14362</reference>
+									<amount>3700</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>suarezpablo126@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Suarez Mendez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-03 12:39:18-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14370</reference>
+									<amount>2881</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>holenweger91@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Bruno Holenweger Bruno</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-03 12:45:25-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14371</reference>
+									<amount>2250</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>holenweger91@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Bruno Holenweger Holenweger</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-07 17:59:39-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14376</reference>
+									<amount>1250</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Gomez Gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-08 06:01:52-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14377</reference>
+									<amount>1582</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>omar@internetrpowerhotel.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>prueba prueba dfgh</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-12 05:25:52-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14384</reference>
+									<amount>4676</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>slim_trevino@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Carlos Ramirez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-12 16:46:03-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14386</reference>
+									<amount>1250</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Prueba</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-13 16:54:14-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14389</reference>
+									<amount>5701</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>soporteinmusa@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>HERBERTH HEREDIA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-13 16:56:19-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14390</reference>
+									<amount>5701</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>soporteinmusa@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>HERBERTH HEREDIA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-13 17:12:23-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14392</reference>
+									<amount>7202</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>inmusaventas@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>DAVID BURBANO</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-13 17:23:49-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14393</reference>
+									<amount>4801</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>escungestion@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>PAULA GARCIA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-15 06:36:00-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14399</reference>
+									<amount>2280</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>soporteboss00@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>RAUL GUZMAN</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-16 21:45:00-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14405</reference>
+									<amount>409</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>renato.molina.h@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Renato Molina</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-17 22:51:10-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14409</reference>
+									<amount>4609</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>inmusaventas@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>SEBASTIAN ABREU</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-18 15:00:16-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14412</reference>
+									<amount>4000</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>ewintergalen@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Edward Wintergalen</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-22 09:36:48-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14416</reference>
+									<amount>657</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>deluna_rdz@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Adriana Ramos Deluna Ramos Deluna</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-22 17:41:34-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14417</reference>
+									<amount>2060</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>bravosal316619@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>alan rodriguez rodriguez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-25 03:57:27-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14423</reference>
+									<amount>410</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>deluna_rdz@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Adriana Ramos De Luna Ramos De Luna</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-11-25 04:01:04-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14424</reference>
+									<amount>328</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>deluna_rdz@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Adriana Ramos De Luna Ramos De Luna</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-07 21:11:19-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14449</reference>
+									<amount>2851</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>laurargoytia@yahoo.com.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Laura López Argoytia</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-09 01:11:19-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14451</reference>
+									<amount>128</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>orlando_holenweger@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Orlando Holenweger</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-09 01:14:54-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14452</reference>
+									<amount>128</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>orlando_holenweger@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Orlando Holenweger</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-09 21:10:58-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14453</reference>
+									<amount>8799</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>marbelis_villarreal@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Marbelis Katiuska Villarreal Rodriguez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-09 21:24:02-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14454</reference>
+									<amount>8799</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>rdangeloc@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Robinson D'angelo Campo Castillo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-09 23:15:34-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14456</reference>
+									<amount>8799</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>rdangeloc@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Robinson D'angelo Campo Castillo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-09 23:32:42-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14457</reference>
+									<amount>8799</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>rdangeloc@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Robinson D'angelo Campo Castillo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-13 22:35:31-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14462</reference>
+									<amount>4276</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>lm.segura@bim.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>luis manuel segura</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2019-12-17 20:05:24-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14463</reference>
+									<amount>2500</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>raulmenros2007@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>RAUL MENDOZA ROSETE</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-01-04 15:13:10-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14479</reference>
+									<amount>1822</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>gte_administrativa@loginseprisp.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>MARIA PAULINA OMAÑA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-01-23 22:00:36-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14503</reference>
+									<amount>623</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>ihernandezveloz@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>INES HERNANDEZ</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-01-27 13:09:39-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14505</reference>
+									<amount>119</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>khallj@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Kim Hall Jorgensen</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-06 15:17:29-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14518</reference>
+									<amount>709</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>eduardj.f17@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Eduardo Molina</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-07 02:17:56-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14522</reference>
+									<amount>72</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>bleona@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>BRENDA AIDA LEÓN ATRIP LEON</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-07 04:35:12-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14525</reference>
+									<amount>644</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>gertrudenmadiala@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>GERTRUDE NMA DIALA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-20 02:06:02-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14550</reference>
+									<amount>301</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>BEACHAVEZ1973@GMAIL.COM</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Beatrice Duran</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-20 02:11:05-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14551</reference>
+									<amount>301</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>BEACHAVEZ1973@GMAIL.COM</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Beatrice Duran</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-20 18:01:50-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14552</reference>
+									<amount>119</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>marta.cattaneo26@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Marta Cattaneo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-20 22:07:49-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14553</reference>
+									<amount>287</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cyn.alfar@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Cynthia Alfaro</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-02-21 21:36:48-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14554</reference>
+									<amount>87</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>paco_mar@usa.net</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>FRANCISCO Martinez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-10 05:54:29-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14577</reference>
+									<amount>4896</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cleverrios@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>beatriz espinosa</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-10 05:55:47-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14578</reference>
+									<amount>4896</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cleverrios@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>beatriz espinosa</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-10 17:17:35-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14579</reference>
+									<amount>4896</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cleverrios@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>beatriz espinosa</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-10 17:18:19-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14580</reference>
+									<amount>4896</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cleverrios@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>beatriz espinosa</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-13 15:33:20-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14587</reference>
+									<amount>4814</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>CVAELLO@TOURSOLUTIONS.CLUB</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>CARLOS VAELLO</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-16 03:41:20-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14589</reference>
+									<amount>1322</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>cortes.delia@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>DELIA DEYANIRA CORTES</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-03-17 22:06:19-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14592</reference>
+									<amount>5195</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>toonbbi92@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>César Antonio Blas Zamora</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-10-31 17:46:32-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14611</reference>
+									<amount>323</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>tin.valero@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Agustin Valero</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-11-25 20:38:07-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14620</reference>
+									<amount>9375</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>thombecerril345@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>TOMAS ALBERTO BECERRIL</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-15 02:08:24-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14672</reference>
+									<amount>2735</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>rev7784@yahoo.com.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Roberto Esquivel</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-15 02:14:57-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14673</reference>
+									<amount>2735</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>rev7784@yahoo.com.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Roberto Esquivel</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-15 02:25:59-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14674</reference>
+									<amount>6779</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>reyescbta11@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Mariana Reyes Reyes Reyes Reyes</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-15 21:50:29-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14675</reference>
+									<amount>3520</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>reyescbta11@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Mariana Reyes Reyes Reyes</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-15 21:58:41-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14676</reference>
+									<amount>4519</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>reyescbta11@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Mariana Reyes Reyes Reyes</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-18 20:37:51-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14679</reference>
+									<amount>3932</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>reyescbta11@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Mariana Reyes Reyes Reyes</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-22 21:48:48-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14687</reference>
+									<amount>3562</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>ana.perez@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Ana Perez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-22 21:52:47-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14688</reference>
+									<amount>5343</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>ana.perez@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Ana Perez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-24 23:28:10-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14689</reference>
+									<amount>1579</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>jperez@aol.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jose Perez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-26 21:34:49-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14690</reference>
+									<amount>10903</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>ceciliez2994@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>William de Jesus Zapata Garduño</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2020-12-26 21:47:35-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14691</reference>
+									<amount>10903</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>ceciliez2994@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>William de Jesus Zapata Garduño</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-01-15 17:35:18-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14707</reference>
+									<amount>5028</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>josep@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jose Perez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-01-23 01:03:25-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14717</reference>
+									<amount>14125</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>Lopaleja44@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Christian acevedo acevedo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-20 23:34:59-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14766</reference>
+									<amount>4314</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>miguelvargas-87@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>CRISTINA ARREDONDO GARCIA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-21 02:39:39-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14767</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>fabiola@oktravel.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>RESERVACION DE PRUEBA PRUEBA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-21 02:46:05-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14769</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>fabiola@oktravel.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>prueba  3 prueba 3</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-22 18:46:32-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14774</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>fabiola@oktravel.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>PRUEBA PRUEBA</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-22 18:58:45-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14775</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-23 16:18:46-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14776</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-23 19:51:17-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14777</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-26 21:52:39-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14790</reference>
+									<amount>2200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>barbara-morera@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Barbara Morera Jiménez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-02-26 21:55:22-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14791</reference>
+									<amount>2200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>barbara-morera@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Barbara Morera Jiménez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-03-05 19:17:30-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14801</reference>
+									<amount>7190</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>kathya.cruz@sesajal.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Angel Horacio Najera Torres</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-03-27 20:15:51-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14851</reference>
+									<amount>1783</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>bethzrodas@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Beatriz Irene Rodas Granados</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-03-28 19:06:44-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14854</reference>
+									<amount>94</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>loulou792@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>laurent Péquignot</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-09 14:01:28-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14863</reference>
+									<amount>3780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>gizehdeleon@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Gizeh De leon</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-09 16:39:43-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14864</reference>
+									<amount>3780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo test</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-09 17:55:55-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14865</reference>
+									<amount>3780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Gomez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-09 17:58:32-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14866</reference>
+									<amount>3780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Gomez Tejeda</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-09 18:01:49-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14867</reference>
+									<amount>3780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo Gomez Tejeda</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-09 18:05:32-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14868</reference>
+									<amount>3780</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>juan.alucard.02@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Juan Pablo test</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-04-13 19:46:01-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14877</reference>
+									<amount>1260</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>pilita.0102@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Pilar Carrillo</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-05-08 02:31:35-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun14961</reference>
+									<amount>14141</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>payinpayolo87@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jose de Jesus Lopez Rivera</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-02 01:05:39-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15021</reference>
+									<amount>1438</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>25092607le@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>JAZMIN LOPEZ RANGEL</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-11 16:54:43-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15046</reference>
+									<amount>1438</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>julio@go1.mx</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>e sdfsd sdfsdf</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-15 14:51:16-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15057</reference>
+									<amount>3600</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>mtellez@grupovivo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>CRISTIAN ALEJANDRO OLVERA ALBORES</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-19 16:59:44-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15063</reference>
+									<amount>183</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>jerrybhoke@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jerome Hoke</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-21 18:12:21-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15066</reference>
+									<amount>516</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>thablue109@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jason Hamilton</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-21 18:31:53-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15067</reference>
+									<amount>516</amount>
+									<moneda>USD</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>thablue109@yahoo.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jason Hamilton</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-22 01:16:02-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15071</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>katja.inkeri.santala@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Katja Santala</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-22 14:06:33-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15072</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>nayeliteo@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>PANNEKOUCKE GILLES</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-26 23:38:19-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15078</reference>
+									<amount>1200</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>Jaz_ari@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Jazmin Roque Roque</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-06-28 18:07:48-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15079</reference>
+									<amount>8485</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>marianapao1@hotmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Mariana Paola Treviño Ramos</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-07-13 16:42:27-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15108</reference>
+									<amount>18005</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>dani.motta@lbcdurham.org</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Claudia Motta</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-07-13 17:00:46-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15109</reference>
+									<amount>18005</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>dani.motta@lbcdurham.org</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Claudia Motta</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-07-13 18:32:16-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15110</reference>
+									<amount>16720</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>dani.motta@lbcdurham.org</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Claudia Motta</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-07-13 18:37:20-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15111</reference>
+									<amount>16720</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>dani.claudia5@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Claudia Motta</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-07-13 19:20:06-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15113</reference>
+									<amount>16720</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>dani.claudia5@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Claudia Motta</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+
+
+
+-------- Fecha: 2021-07-14 00:51:45-------------
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+							<P>
+								<business>
+									<id_company>ZC6A</id_company>
+									<id_branch>0006</id_branch>
+									<user>ZC6ASIUS0</user>
+									<pwd>APSPVPSRG9</pwd>
+								</business>
+								<url>
+									<reference>Hotel Adhara Cancun15114</reference>
+									<amount>5365</amount>
+									<moneda>MXN</moneda>
+									<canal>W</canal>
+									<omitir_notif_default>1</omitir_notif_default>
+									<st_correo>1</st_correo>
+									<mail_cliente>mvzsamuelrp91@gmail.com</mail_cliente>
+									<datos_adicionales>
+										<data id='1' display='true'>
+											<label>Nombre</label>
+											<value>Samuel Rodríguez Pérez</value>
+										</data>
+									</datos_adicionales>
+								</url>
+							</P>
+
+

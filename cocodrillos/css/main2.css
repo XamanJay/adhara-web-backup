@@ -1,0 +1,270 @@
+
+@font-face {
+        font-family: "rabiohead";
+        src: url("../fonts/rabiohead.ttf") format("truetype");
+    }
+
+@font-face {
+        font-family: "thunder";
+        src: url("../fonts/thunder.ttf") format("truetype");
+    }
+html,body{
+	
+	width: 100%;
+	background-image: url("../img/madera.jpg");
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+nav{
+	background-color: #ff485b !important;
+
+}
+
+.full-page{
+ 
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.img-wrapper{
+	margin-top: 50px !important;
+}
+.logo-center{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.logo-nav{
+    height: 180px;
+    padding-left: 52px;
+}
+/*.adobo{
+    height: 80%;
+    width: 80%;
+}*/
+
+@media only screen and (max-width: 1200px){
+    
+    .coco{
+        width: 60%;
+        margin-bottom: -50px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    #carnesweb{
+        width: 130% !important;
+        margin-left: -205px;
+        margin-top: -90px;
+    }
+    .coco{
+        width: 55%;
+        margin-bottom: -50px;
+    }
+    #left_t{
+        margin-left: 180px;
+    }
+    #izq_t{
+        margin-left: -250px;
+    }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1500px) {
+    #carnesweb{
+        width: 130% !important;
+        margin-left: -215px;
+        margin-top: -90px;
+    }
+    .coco{
+        width: 55%;
+        margin-bottom: -50px;
+    }
+    #left_t{
+        margin-left: 200px;
+    }
+    #izq_t{
+        margin-left: -300px;
+    }
+
+}
+
+@media only screen and (min-width: 1501px) {
+    .logo-nav{
+        height: 240px;
+        padding-left: 52px;
+    }
+    .adobo{
+        height: 80% !important;
+        width: 80% !important;
+    }
+    .titulo{
+        font-family: "thunder";
+        font-size: 5.5rem !important;
+        color: #66322f;
+        line-height: 80px;
+    }
+    .salsawidth{
+    width: 90%;
+    }
+    .panes-letter2{
+        font-size: 50px !important;
+    }
+    .coco{
+        width: 55%;
+        margin-bottom: -60px;
+    }
+    .jump{
+        padding-top: 20px;
+    }
+
+    #carnesweb{
+        width: 130% !important;
+        margin-left: -280px;
+        margin-top: -90px;
+    }
+    #left_t{
+        margin-left: 300px;
+    }
+    #izq_t{
+        margin-left: -450px;
+    }
+
+
+}
+
+#menu{
+	margin-right: 30px;
+}
+.titulo{
+    font-family: "thunder";
+    font-size: 4.5rem !important;
+    padding-top: 60px;
+    color: #66322f;
+    line-height: 80px;
+}
+.promo{
+    text-align: center;
+}
+
+.titulo-artesanal{
+    font-family: "rabiohead";
+    font-size: 4.5rem !important;
+    color: #ff485b;
+}
+
+.artesanal{
+    width: 80%;
+    height: 80%;
+    /*margin-left: -350px;*/
+    
+}
+
+/*.numero1{
+    padding-left: 370px;
+}
+.numero2{
+    padding-left: 270px;
+}*/
+.panes{
+
+    height: 90%;
+    width: 90%;
+}
+.jump{
+    padding-top: 0px;
+}
+
+.quesos{
+    height: 55%;
+    width: 55%;
+}
+
+.panes-letter{
+    font-family: "rabiohead";
+    color: #ff485b;
+    font-size: 2rem;
+}
+.panes-letter2{
+    font-family: "thunder";
+    font-size: 20px !important;
+    color: #66322f;
+}
+#nigga{
+    padding-top: 160px;
+}
+.salsa-logo{
+    width: 90%;
+}
+#list-horizontal li{
+    display: inline;
+    list-style-type: none;
+    text-align: center;
+    margin-left: 30px;
+}
+#list-horizontal a{
+    color:white;
+
+}
+
+#list-horizontal2 li{
+    display: inline;
+    list-style-type: none;
+    text-align: center;
+    margin-left: 30px;
+}
+
+
+.cococolumn{
+    margin-top: -25px;
+}
+.lista{
+        text-align: center;
+    }
+
+.space .col {
+    padding: 0 0 !important;
+}
+
+.pantext{
+    width: 75%;
+}
+
+.salsawidth{
+    width: 90%;
+}
+
+.space-letter{
+    margin-top: 20px !important;
+
+}
+
+.page-footer{
+    width:100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+.wraper{
+    min-height:100%;
+    position:relative;
+
+}
+#carnesweb{
+    width: 100%;
+}
+#body{
+    padding-bottom:95px; /* Height of the footer element */
+}
+#left_t{
+
+}
+
+

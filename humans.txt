@@ -1,0 +1,15 @@
+/* TEAM */
+
+Design: Yanahi Castor
+Email: sainzfer@me.com
+Phone: 9982299382
+
+Developer: Juan Pablo Gomez Tejeda
+Email Developer: juan.alucard.02@gmail.com
+Phone: 9983208924
+From: Cancun Quintana Roo Mexico
+
+/* SITE */
+Site-name: Hotel Adhara Hacienda Cancun
+CreationDate: 30/05/2016
+Doctype:html-css-js-jQuery-php
